@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaagomgrkadfotirtoqtm7nfwl25dsj3o2dglcvfwkr4vsf6u6vkuvq
+fingerprint=03:af:15:78:fe:0c:f0:e7:88:71:ee:ab:a2:07:fa:7a
+key_file=C:/Users/helsehai/Documents/.oci/key.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaaj72caew4u5k7aomfa7vt6jw6l4oxq7hsffsfzmdmejxhbx5nlh6a
+region=me-jeddah-1
